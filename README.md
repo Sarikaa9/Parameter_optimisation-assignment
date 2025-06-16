@@ -58,5 +58,5 @@ Below is the fitness convergence plot over 100 iterations for Sample S4:
 - `matplotlib`
 - `tqdm`
 - `tabulate`
-
+.
 ---
